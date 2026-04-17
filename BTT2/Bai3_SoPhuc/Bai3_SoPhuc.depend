@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1775831376 source:e:\uit\hk2\oop\th\btt2\bai3_sophuc\main.cpp
+	<iostream>
+	"SoPhuc.h"
+
+1775831585 e:\uit\hk2\oop\th\btt2\bai3_sophuc\sophuc.h
+
+1775832435 source:e:\uit\hk2\oop\th\btt2\bai3_sophuc\sophuc.cpp
+	<iostream>
+	"SoPhuc.h"
+
